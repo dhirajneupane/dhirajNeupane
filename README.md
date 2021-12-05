@@ -3,7 +3,7 @@
 **About Me:**<br/>
 
 ***Work***<br/>
-*• [Sept 2021 - Present] A Deep Learning and Software Development Researcher at<a href="http://www.ipcamp.co.kr">IPCamp</a>, South Korea* <br/>
+*• [Sept 2021 - Present] A Deep Learning and Software Development Researcher at <a href="http://www.ipcamp.co.kr">IPCamp</a>, South Korea* <br/>
 *• [March 2019 - Feb2021] Gradaute Research Assistant at <a href= "http://www.changwon.ac.kr/eng/cm/cntnts/cntntsView.do?mi=11228&cntntsId=4240">Department of Information and Communication Engineering, Changwon National University</a>, South Korea* <br/>
 *• [Apr 2018 - Feb 2019] Operation Assistant at <a href= "http://www.neps.com.np/">Nepal Electronic Payment System Ltd</a>, Nepal* <br/>
 *• [Oct 2016 - Apr 2018] Secondary-level Teacher at Shree Marigold Academy Vidhya Mandir, Nepal* <br/>
