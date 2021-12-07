@@ -9,7 +9,7 @@
 - *Gradaute Research Assistant* <br/>
 - *Operation Assistant* <br/>
 - *Secondary-level Teacher* <br/>
-<! --- and --->
+<!-- and --->
 ***Education*** <br/>
 - *M.S. in Inforamtion and Communication Engineering* <br/>
 - *B.E. in Electrical and Electronics (Communication) Engineering* <br/>
