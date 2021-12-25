@@ -15,7 +15,7 @@
 - *B.E. in Electrical and Electronics (Communication) Engineering* <br/>
 - *High School (+2 Science)* <br/>
 
-***Publications*** <br/>
+<!-- ***Publications*** <br/> -->
 
 
 <!--
