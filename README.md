@@ -16,6 +16,8 @@
 - *B.E. in Electrical and Electronics (Communication) Engineering* <br/>
 - *High School (+2 Science)* <br/>
 
+![Dhiraj's github stats](https://github-readme-stats.vercel.app/api?username=dhirajneupane&show_icons=true&hide_border=true&theme=dark)
+
 <!-- ***Publications*** <br/> -->
 
 
