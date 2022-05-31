@@ -1,7 +1,7 @@
 ### Hello Everyone 👋|| नमस्ते  सबैलाइ🙏|| 안녕하세요 여러분 
 ### I am Dhiraj Neupane || धिरज न्यौपाने) || 디라지
 
-***My Blog*** <a href = "https://dhirajneupane.github.io"> Dhiraj Neupane</a> <br/>
+***My Blog*** <a href = "https://neupanedhiraj.com.np"> Dhiraj Neupane</a> <br/>
 
 Let's get back to ↓
 
