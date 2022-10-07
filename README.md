@@ -1,7 +1,7 @@
 ### Hello Everyone 👋|| नमस्ते  सबैलाइ🙏|| 안녕하세요 여러분 
-### I am Dhiraj Neupane || धिरज न्यौपाने) || 디라지
+### I am Dhiraj Neupane || धिरज न्यौपाने) || 디라지. If you find difficulty pronouncing my name, you can call me Dj.
 
-***My Blog*** <a href = "https://neupanedhiraj.com.np"> Dhiraj Neupane</a> <br/>
+***My Blog*** <a href = "https://er-dhiraj.com.np"> Dhiraj Neupane</a> <br/>
 
 Let's get back to ↓
 
