@@ -4,8 +4,6 @@ If you find difficulty pronouncing my name, you can call me Dj.
 
 ***My Blog*** <a href = "[https://er-dhiraj.com.np](https://www.dhirajneupane.com.np/)"> Dhiraj Neupane</a> <br/>
 
-[Visitor Count](https://profile-counter.glitch.me/{dhirajNeupane}/count.svg)
-
 Let's get back to ↓
 
 <img align="right" alt="GIF" src="https://github.com/dhirajneupane/dhirajneupane.github.io/blob/master/images/gif.gif" width="300" height="300" /> <br/>
