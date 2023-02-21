@@ -2,7 +2,7 @@
 ### I am Dhiraj Neupane || धिरज न्यौपाने) || 디라지 || DJ. 
 If you find difficulty pronouncing my name, you can call me Dj.
 
-***My Blog*** <a href = "[https://er-dhiraj.com.np](https://www.dhirajneupane.com.np/)"> Dhiraj Neupane</a> <br/>
+***My Blog*** <a href = "https://www.dhirajneupane.com.np/"> Dhiraj Neupane</a> <br/>
 
 Let's get back to ↓
 
