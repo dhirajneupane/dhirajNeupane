@@ -8,6 +8,16 @@ If you find difficulty pronouncing my name, you can call me Dj.
 
 
 
+<h3 align="left">Let's get connected: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dhirajneupane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhiraj Neupane" height="30" width="40" /></a>
+
+
+![Lakpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajneupane&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhirajneupane&theme=dark)](https://git.io/streak-stats)
+
+<img align="right" alt="GIF" src="https://github.com/dhirajneupane/dhirajneupane.github.io/blob/master/images/gif.gif" width="300" height="300" /> <br/>
 
 
 Let's get back to ↓
@@ -21,16 +31,6 @@ Let's get back to ↓
 
 
 
-<h3 align="left">Let's get connected: </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dhirajneupane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhiraj Neupane" height="30" width="40" /></a>
-
-
-![Lakpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirajneupane&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhirajneupane&theme=dark)](https://git.io/streak-stats)
-
-<img align="right" alt="GIF" src="https://github.com/dhirajneupane/dhirajneupane.github.io/blob/master/images/gif.gif" width="300" height="300" /> <br/>
 
 
   <!--
