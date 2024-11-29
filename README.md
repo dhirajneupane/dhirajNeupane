@@ -1,9 +1,10 @@
 ### Hello Everyone 👋|| नमस्ते  सबैलाइ🙏|| 안녕하세요 여러분 
 ### I am Dhiraj Neupane || धिरज न्यौपाने) || 디라지 || DJ. 
 If you find difficulty pronouncing my name, you can call me Dj.
+
 ***My Blog*** <a href = "https://www.dhirajneupane.com.np/"> Dhiraj Neupane</a> <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajneupane&label=Profile%20views&color=yellow&style=flat" alt="dhirajneupane" /> </p>
-<h3 align="left">Profile Views: </h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/dhirajneupane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhirajneupane" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=KtSkA68AAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="dhirajneupane" height="30" width="40" /></a>
