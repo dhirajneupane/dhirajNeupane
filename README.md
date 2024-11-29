@@ -14,7 +14,7 @@ Let's get back to ↓
 
 
 
-
+<!--
 
 
 
@@ -32,7 +32,7 @@ Let's get back to ↓
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakpa-tamang9&theme=dark)](https://git.io/streak-stats)
 
 <img align="right" alt="GIF" src="https://github.com/dhirajneupane/dhirajneupane.github.io/blob/master/images/gif.gif" width="300" height="300" /> <br/>
-<!--
+
 ***About Me:*** <a href= "https://about.me/dhirajneupane/"> Dhiraj Neupane</a> <br/>
 ***LinkedIn :*** <a href= "https://www.linkedin.com/in/dhiraj-neupane-6b3089113/?originalSubdomain=kr"> Dhiraj Neupane</a> <br/>
 ***Google Scholar :*** <a href= "https://scholar.google.com/citations?user=KtSkA68AAAAJ&hl=en"> Dhiraj Neupane</a> <br/>
